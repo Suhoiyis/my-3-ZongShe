@@ -6,3 +6,7 @@
 	path = II
 	url = git@github.com:Suhoiyis/my-own-uestcs.git
 	branch = 2.2：综设
+[submodule "III"]
+	path = III
+	url = git@github.com:Suhoiyis/my-own-uestcs.git
+	branch = 3.1：综设
