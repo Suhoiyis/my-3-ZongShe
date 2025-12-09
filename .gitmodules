@@ -16,3 +16,6 @@
 [submodule "II.Codes"]
 	path = II.Codes
 	url = git@github.com:Suhoiyis/assembler_py.git
+[submodule "III.Codes"]
+	path = III.Codes
+	url = git@github.com:Suhoiyis/2.assembler_py.git
