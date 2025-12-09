@@ -10,3 +10,6 @@
 	path = III
 	url = git@github.com:Suhoiyis/my-own-uestcs.git
 	branch = 3.1：综设
+[submodule "II.project_Design"]
+	path = II.project_Design
+	url = git@github.com:Suhoiyis/project_Design.git
