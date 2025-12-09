@@ -1,0 +1,4 @@
+[submodule "I"]
+	path = I
+	url = git@github.com:Suhoiyis/my-own-uestcs.git
+	branch = 2.1：综设
